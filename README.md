@@ -31,7 +31,7 @@ networks and storing the rewards for plotting.
 
 The number of lines for the DQN agent on the 6x5 and 10x10 grid:
 <p align="center">
-  <img src= "https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/blob/main/dqn_results/compare_DQN.png" alt="Tetris Animation" />
+  <img src= https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/blob/main/dqn_results/compare_DQN.png alt="Tetris Animation" />
 </p>
 
 
