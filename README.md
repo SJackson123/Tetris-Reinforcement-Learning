@@ -26,7 +26,7 @@ The env folder contains all the files for the Tetris environment.
 ## Results:
 
 There are 3 folders containing the results from training each of the 3 agents:
-ce_results, dqn_results, and combine_results. These contain the trained agent
+'ce_results', 'dqn_results', and 'combine_results'. These contain the trained agent
 networks and storing the rewards for plotting.
 
 
