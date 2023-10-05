@@ -14,7 +14,7 @@ two approaches.
 1) Install dependencies - install the required packages from the 'requirements.txt' file.
 
 2) You can train an agent by running each methods python file:
-   - ce.py
+   - 'ce.py'
    - e_constant_noise.py
    - ce_decreasing_noise.py
    - dqn.py
