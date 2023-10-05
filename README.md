@@ -4,7 +4,7 @@ This repository contains the source code for a pytorch implementation of deep Q-
 two approaches.
 
 <center>
-  ![Tetris Animation](https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/blob/main/dqn_results/results20x10/tetris_animation.gif)
+![Tetris Animation](https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/blob/main/dqn_results/results20x10/tetris_animation.gif)
 </center>
 
 ## Running the code 
