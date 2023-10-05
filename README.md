@@ -4,6 +4,11 @@ This repository contains the source code for a pytorch implementation of deep Q-
 two approaches. In this project we address the question: “To what extent does the combination of Reinforcement Learning and Cross-Entropy improve
 the performance of Tetris?”
 
+
+<p align="center">
+  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation_looped_long.gif" alt="Tetris Animation" />
+</p>
+
 ## Project Goal
 This project aims to train an agent to clear as many lines in Tetris. Tetris is a classical puzzle game that provides an ideal testing ground for comparing the
 effectiveness of reinforcement learning and evolutionary strategies. To accomplish our aim we:
@@ -19,12 +24,6 @@ in performance and highlight DQN’s sensitivity to hyper-parameters in Tetris.
 based (DQN) methods, we use CE’s direct policy search to identify promising solutions.
 Then, we use DQN’s iterative updates to fine-tune the policy with the ultimate goal of
 clearing more lines. We observe limited learning
-
-
-
-<p align="center">
-  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation_looped_long.gif" alt="Tetris Animation" />
-</p>
 
 ## Running the code 
 
