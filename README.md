@@ -15,10 +15,10 @@ two approaches.
 
 2) You can train an agent by running each methods python file:
    - `ce.py`
-   - e_constant_noise.py
-   - ce_decreasing_noise.py
-   - dqn.py
-   - combine.py
+   - `e_constant_noise.py`
+   - `ce_decreasing_noise.py`
+   - `dqn.py`
+   - `combine.py`
   
 ## Env:
 The env folder contains all the files for the Tetris environment.
