@@ -1,4 +1,4 @@
-Combining RL and ES in Tetris
+# Combining RL and ES in Tetris
 
 ## Description
 This is the code for combining RL and ES in Tetris. The requirements file contains
