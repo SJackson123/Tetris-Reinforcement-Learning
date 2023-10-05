@@ -14,7 +14,7 @@ two approaches.
 1) Install dependencies - install the required packages from the 'requirements.txt' file.
 
 2) You can train an agent by running each methods python file:
-   - 'ce.py'
+   - `ce.py`
    - e_constant_noise.py
    - ce_decreasing_noise.py
    - dqn.py
@@ -26,10 +26,10 @@ The env folder contains all the files for the Tetris environment.
 ## Results:
 
 There are 3 folders containing the results from training each of the 3 agents:
-'ce_results', 'dqn_results', and 'combine_results'. These contain the trained agent
+`ce_results`, `dqn_results`, and `combine_results`. These contain the trained agent
 networks and storing the rewards for plotting.
 
-The number of lines for the DQN agent on the 6x5 and 10x10 grid:
+The performance of an agent was visualised by comparing the number of lines for each agent. Below is an example of the DQN agent compared on the 6x5 and 10x10 grid:
 <p align="center">
   <img src= https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/blob/main/dqn_results/compare_DQN.png alt="Tetris Animation" />
 </p>
