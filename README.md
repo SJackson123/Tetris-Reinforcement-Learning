@@ -6,7 +6,7 @@ two approaches.
 
 
 <p align="center">
-  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation.gif" alt="Tetris Animation" />
+  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation_looped_long.gif" alt="Tetris Animation" />
 </p>
 
 ## Running the code 
