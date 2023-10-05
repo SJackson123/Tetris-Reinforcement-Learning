@@ -3,11 +3,9 @@
 This repository contains the source code for a pytorch implementation of deep Q-networks, the cross entropy method and a combination of the 
 two approaches.
 
-<center>
-  ![Tetris Animation](https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation.gif)
-</center>
-
-
+<div align="center">
+  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation.gif" alt="Tetris Animation" />
+</div>
 
 ## Running the code 
 
