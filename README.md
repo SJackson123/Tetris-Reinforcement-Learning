@@ -9,6 +9,13 @@ the performance of Tetris?”
   <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation_looped_long.gif" alt="Tetris Animation" />
 </p>
 
+Technologies used: Python3, PyTorch, Keras, NumPy, Matplotlib, scikit-learn.
+- Developed a Tetris environment from scratch to train agents to play Tetris.
+- Implemented machine learning algorithms with neural networks to improve performance up to 3 times.
+- Ran experiments on high performance Linux systems, using SSH for access, script execution, and data retrieval.
+- Created a novel algorithm to improve performance.
+
+
 ## Project Goal
 This project aims to train an agent to clear as many lines in Tetris. Tetris is a classical puzzle game that provides an ideal testing ground for comparing the
 effectiveness of reinforcement learning and evolutionary strategies. To accomplish our aim we:
